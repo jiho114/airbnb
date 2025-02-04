@@ -161,6 +161,7 @@ $layout-padding: 0 300px;
                     height: 100%;
                     border: none;
                     transition: 0.5s;
+                    cursor: pointer;
                   }
                   input:focus {
                     outline: 1px solid $airbnb-color;
@@ -232,6 +233,7 @@ $layout-padding: 0 300px;
                 font-size: 1.1rem;
                 color: #fff;
                 font-weight: bold;
+                cursor: pointer;
               }
             }
           }
@@ -333,6 +335,7 @@ $layout-padding: 0 300px;
           border: 1px solid #666;
           padding:15px 20px;
           border-radius: 10px;
+          cursor: pointer;
         }
       }
     }
@@ -367,6 +370,7 @@ $layout-padding: 0 300px;
     }
   }
   .footer-top-line{
+    margin-top: 80px;
     width:100%;
     border: 1px solid #f1f1f1;
   }
