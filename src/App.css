@@ -62,6 +62,17 @@ input:checked[type=checkbox] {
     -webkit-appearance: checkbox
 }
 
+input[type="date"] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: none;
+  border: 1px solid #f1f1f1;
+  padding: 8px;
+  font-size: 14px;
+  color: #2b2b2b;
+}
+
 /* 테두리 초기화 */
 img,fieldset {border:0 none;}
 
